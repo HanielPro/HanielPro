@@ -1,4 +1,4 @@
-<h1>👋😁 Seja muito bem vindo ao meu Github! Eu sou Haniel Costa! </h1>
+<h1>👋😁 Seja muito bem vindo ao meu perfil! Eu sou Haniel Costa! </h1>
 
 <div>
     <h2 style="padding:10px 0px;" align="center">📊O Meu progresso...</h2>
