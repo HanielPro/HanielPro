@@ -21,7 +21,9 @@
     <img align="center" height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" height="40" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons//mysql/mysql-plain-wordmark.svg">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />        
 </div>
 <div>
     <h2 style="padding:10px 0px;" align="center">🌐 As minhas redes socias...</h2>
@@ -42,7 +44,7 @@
     <h2 style="padding:10px 0px;" align="center">🎓 Academicamente falando...</h2>
     <ul>
         <li>
-            <b>🪫 Estou cursando o Tecnologo em Sistemas para internet no IFPB campus João Pessoa, desde 2022.</b>
+            <b>🪫 Estou cursando Tecnologo em Sistemas para internet no IFPB campus João Pessoa, desde 2022.</b> <i>(atualmente no 4º periodo)<i>
         </li>
         <li>
             🔋 Sou Técnico em informática, formado no ano de 2021 pelo IFPB campus Santa Rita.
@@ -54,7 +56,8 @@
     <h2 style="padding:10px 0px;" align="center">🥸 Um pouco sobre mim... </h2>
     <ul>
         <li> Não estou trabalhando no momento, contudo estou sempre aberto a propostas😁 </li>
-        <li> Estou atualmente focado em estudar React e Java 👨‍💻</li>
+        <li> Estou atualmente focado em estudar React 👨‍💻</li>
+        <li>Considero fascinante a área de <i>Back End</i> 💻</li>
         <li> Estou me esforçando para me especializar como <i> Full Stack Developer </i>  🦾</li>
         <li> Na maioria das vezes quando não estou codando leio livros! O meu gênero favorito é suspense 📖</li>
         <li>Gosto bastante de assuntos relacionados com a segurança digital 💖</li>
