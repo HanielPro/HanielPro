@@ -1,7 +1,7 @@
-<h1>👋😁 Seja muito bem vindo ao meu perfil! Eu sou Haniel Costa! </h1>
+<h1>👋😁 Hello and welcome to my personal profile! I'm Haniel Costa!</h1>
 
 <div>
-    <h2 style="padding:10px 0px;" align="center">📊O Meu progresso...</h2>
+    <h2 style="padding:10px 0px;" align="center">That's my progress</h2>
     <div align="center">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCostaDaSilva&layout=compact&langs_count=7&theme=onedark" />
@@ -11,22 +11,50 @@
 </div>
 <br>
 <div align='center' style="display: inline-block; background-color: aliceblue; width: 100%; height: 100%;">
-    <h2 style="padding:10px 0px;" align="center">💻 As minhas habilidades...</h2>
-    <img align="center" height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    <img align="center" height="40" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img align="center" height="40" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="50"
+    <h2 style="padding:10px 0px;" align="center">💻Technical Knowledge/</h2>
+    <h3  align="left">Programming Languages, MarkDown and MarkUp</h3>
+    <img height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-    <img align="center" height="40" width="50"
+    <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />        
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+    <img height="40" width="50"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img height="40" width="50"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <br>
+    <h3 align="left">DataBases</h3>
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <br>
+    <h3 align="left">FrameWorks</h3>
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <br>
+    <h3 align="left">Development tools</h3>
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <br>
+    <h3 align="left">Actually Learning</h3>
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
 <div>
-    <h2 style="padding:10px 0px;" align="center">🌐 As minhas redes socias...</h2>
+    <h2 style="padding:10px 0px;" align="center">🌐 Social Media</h2>
     <div align="center">
         <a href="https://www.instagram.com/haniel__costa/" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -39,27 +67,27 @@
                 target="_blank"></a>
     </div>
 </div>
-
+<hr>
 <div>
-    <h2 style="padding:10px 0px;" align="center">🎓 Academicamente falando...</h2>
+    <h2 style="padding:10px 0px;" align="center">🎓 Academic Career </h2>
     <ul>
         <li>
-            <b>🪫 Estou cursando Tecnologo em Sistemas para internet no IFPB campus João Pessoa, desde 2022.</b> <i>(atualmente no 4º periodo)<i>
+            <b>🪫 Actually, I'm studying for a Technology Degree in Internet Systems at IFPB campus João Pessoa since 2022.</b> 
         </li>
         <li>
-            🔋 Sou Técnico em informática, formado no ano de 2021 pelo IFPB campus Santa Rita.
+            🔋 I'm a Computer Technician, graduated in 2021.
         </li>
     </ul>
 </div>
-
+<hr>
 <div>
-    <h2 style="padding:10px 0px;" align="center">🥸 Um pouco sobre mim... </h2>
+    <h2 style="padding:10px 0px;" align="center">🥸 Somethings about me </h2>
     <ul>
+        <li><b><i>Prefiro escrever esta parte em minha língua mãe, português</i> :heart: </b> </li>
         <li> Não estou trabalhando no momento, contudo estou sempre aberto a propostas😁 </li>
-        <li> Estou atualmente focado em estudar React 👨‍💻</li>
-        <li>Considero fascinante a área de <i>Back End</i> 💻</li>
-        <li> Estou me esforçando para me especializar como <i> Full Stack Developer </i>  🦾</li>
-        <li> Na maioria das vezes quando não estou codando leio livros! O meu gênero favorito é suspense 📖</li>
-        <li>Gosto bastante de assuntos relacionados com a segurança digital 💖</li>
+        <li> Estou atualmente focado em estudar Angular, me considero um novato 👨‍💻</li>
+        <li>Eu me considero fascinado pela área de Desenvolvimento de Sistemas 💻</li>
+        <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é suspense 📖</li>
+        <li>Amo aprender coisas novas! Encaro os desafios como motivações para a minha jornada 🔎</li>
     </ul>
 </div>
