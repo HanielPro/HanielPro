@@ -25,12 +25,14 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img width="40" height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="40" height="40" padding-right="10"
+        src="https://img.icons8.com/wired/64/sql.png" alt="sql"/>
     <br>
     <h3 align="left">DataBases</h3>
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <br>
     <h3 align="left">FrameWorks</h3>
     <img height="40" width="50"
