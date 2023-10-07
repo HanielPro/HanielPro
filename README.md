@@ -11,14 +11,12 @@
 </div>
 <br>
 <div align='center' style="display: inline-block; background-color: aliceblue; width: 100%; height: 100%;">
-    <h2 style="padding:10px 0px;" align="center">💻Technical Knowledge/</h2>
+    <h2 style="padding:10px 0px;" align="center">💻Technical Knowledge</h2>
     <h3  align="left">Programming Languages, MarkDown and MarkUp</h3>
     <img height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img height="40" width="50"
@@ -27,12 +25,12 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img width="40" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="40" height="40" padding-right="10"
-        src="https://img.icons8.com/wired/64/sql.png" alt="sql"/>
     <br>
     <h3 align="left">DataBases</h3>
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <br>
     <h3 align="left">FrameWorks</h3>
     <img height="40" width="50"
