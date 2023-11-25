@@ -60,9 +60,11 @@
         <a href="https://www.instagram.com/haniel__costa/" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                 target="_blank"></a>
-        <a href="hanielcosta.ti@gmail.com"><img
-                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-                target="_blank"></a>
+        <a href="mailto:hanielcosta.ti@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+           alt="Gmail" 
+           target="_blank">
+        </a>
         <a href="https://www.linkedin.com/in/haniel-costa-63829a250" target="_blank"><img
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                 target="_blank"></a>
