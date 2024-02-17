@@ -37,6 +37,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <br>
     <h3 align="left">Development tools</h3>
     <img height="40" width="50" 
@@ -47,10 +49,12 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <br>
     <h3 align="left">Actually Learning</h3>
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
 </div>
 
