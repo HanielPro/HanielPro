@@ -31,6 +31,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <img height="40" width="50" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />  
     <br>
     <h3 align="left">FrameWorks</h3>
     <img height="40" width="50"
