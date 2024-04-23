@@ -107,10 +107,9 @@
     <h2 style="padding:10px 0px;" align="center">🥸 Somethings about me </h2>
     <ul>
         <li><b><i>Prefiro escrever esta parte em minha língua mãe, português</i> :heart: </b> </li>
-        <li> Não estou trabalhando no momento, contudo estou sempre aberto a propostas😁 </li>
-        <li> Estou atualmente focado em estudar Angular, me considero um novato 👨‍💻</li>
+        <li> Estou atualmente estudando automatização com python 🤖</li>
         <li>Eu me considero fascinado pela área de Desenvolvimento de Sistemas 💻</li>
-        <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é suspense 📖</li>
-        <li>Amo aprender coisas novas! Encaro os desafios como motivações para a minha jornada 🔎</li>
+        <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é Policial 📖</li>
+        <li>A curiosidade é minha amiga. Gosto de aprender coisas novas 🔎</li>
     </ul>
 </div>
