@@ -31,8 +31,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-            <img height="40" width="50" 
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />  
+    <img height="50" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />  
     <br>
     <h3 align="left">FrameWorks</h3>
     <img height="40" width="50"
@@ -41,15 +41,26 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
         <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+     <img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <br>
     <h3 align="left">Development tools</h3>
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <br>
+    <h3 align="left">Others</h3>
+    <img height="40" width="40" 
+        src="https://www.freeiconspng.com/uploads/excel-icon-17.png" />
+    <img height="40" width="40" 
+        src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
     <h3 align="left">Actually Learning</h3>
         <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -59,8 +70,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-    
+<!--     <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> -->
 </div>
 
 <div>
