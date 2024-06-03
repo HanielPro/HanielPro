@@ -110,6 +110,13 @@
         <li> Estou atualmente estudando automatização com python 🤖</li>
         <li>Eu me considero fascinado pela área de Desenvolvimento de Sistemas 💻</li>
         <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é Policial 📖</li>
-        <li>A curiosidade é minha amiga. Gosto de aprender coisas novas 🔎</li>
     </ul>
 </div>
+<hr>
+    <div> 
+        <h2 style="padding:10px 0px;" align="center"> Um Trecho de um livro</h2>
+        <h3>
+        — Quando você olha para trás, você diz, com lágrimas nos olhos: “Oh, os dias felizes. Eu era tão jovem”. (Hercule Poirot)    
+        </h3>
+    </div>
+    
