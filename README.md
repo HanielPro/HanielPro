@@ -1,7 +1,7 @@
 <h1>👋😁 Hello and welcome to my personal profile! I'm Haniel Costa!</h1>
 
 <div>
-    <h2 style="padding:10px 0px;" align="center">That's my progress</h2>
+    <h2 style="padding:10px 0px;" align="center">That's my progress 💬</h2>
     <div align="center">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCostaDaSilva&layout=compact&langs_count=7&theme=onedark" />
@@ -12,7 +12,7 @@
 <br>
 <div align='center' style="display: inline-block; background-color: aliceblue; width: 100%; height: 100%;">
     <h2 style="padding:10px 0px;" align="center">💻Technical Knowledge</h2>
-    <h3  align="left">Programming Languages, MarkDown and MarkUp</h3>
+    <h3 align="left">Programming Languages, MarkDown and MarkUp</h3>
     <img height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img height="40" width="50"
@@ -104,7 +104,7 @@
 </div>
 <hr>
 <div>
-    <h2 style="padding:10px 0px;" align="center">🥸 Somethings about me </h2>
+    <h2 style="padding:10px 0px;" align="center">🔍Somethings about me </h2>
     <ul>
         <li><b><i>Prefiro escrever esta parte em minha língua mãe, português</i> :heart: </b> </li>
         <li> Estou atualmente estudando automatização com python 🤖</li>
