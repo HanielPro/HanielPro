@@ -18,6 +18,8 @@
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -36,13 +38,13 @@
     <br>
     <h3 align="left">FrameWorks</h3>
     <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-        <img height="40" width="50" 
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-     <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+        <img height="40" width="65"
+        src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" />
     <br>
     <h3 align="left">Development tools</h3>
     <img height="40" width="50" 
@@ -55,6 +57,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
     <br>
     <h3 align="left">Others</h3>
     <img height="40" width="40" 
@@ -62,21 +66,23 @@
     <img height="40" width="40" 
         src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
     <h3 align="left">Actually Learning</h3>
-        <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<!--     <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> -->
+    <img height="40" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
+    
 </div>
 
 <div>
     <h2 style="padding:10px 0px;" align="center">🌐 Social Media</h2>
     <div align="center">
+        <a href="https://www.linkedin.com/in/haniel-costa-63829a250" target="_blank"><img
+                src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                target="_blank"></a>
         <a href="https://www.instagram.com/haniel__costa/" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                 target="_blank"></a>
@@ -85,9 +91,6 @@
            alt="Gmail" 
            target="_blank">
         </a>
-        <a href="https://www.linkedin.com/in/haniel-costa-63829a250" target="_blank"><img
-                src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                target="_blank"></a>
     </div>
 </div>
 <hr>
@@ -95,10 +98,10 @@
     <h2 style="padding:10px 0px;" align="center">🎓 Academic Career </h2>
     <ul>
         <li>
-            <b>🪫 Actually, I'm studying for a Technology Degree in Internet Systems at IFPB campus João Pessoa since 2022.</b> 
+            <b>👨‍🎓 Actually, I'm studying for a Technology Degree in Internet Systems at IFPB campus João Pessoa since 2022.</b> 
         </li>
         <li>
-            🔋 I'm a Computer Technician, graduated in 2021.
+             💎I'm a Computer Technician, graduated in 2021.
         </li>
     </ul>
 </div>
