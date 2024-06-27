@@ -1,5 +1,4 @@
 <h1>👋😁 Hello and welcome to my personal profile! I'm Haniel Costa!</h1>
-
 <div>
     <h2 style="padding:10px 0px;" align="center">That's my progress 💬</h2>
     <div align="center">
@@ -11,7 +10,7 @@
 </div>
 <br>
 <div align='center' style="display: inline-block; background-color: aliceblue; width: 100%; height: 100%;">
-    <h2 style="padding:10px 0px;" align="center">💻Technical Knowledge</h2>
+    <h2 style="padding:10px 0px;" align="center">💻 Technical Knowledge</h2>
     <h3 align="left">Programming Languages, MarkDown and MarkUp</h3>
     <img height="40" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -107,19 +106,23 @@
 </div>
 <hr>
 <div>
-    <h2 style="padding:10px 0px;" align="center">🔍Somethings about me </h2>
+    <h2 style="padding:10px 0px;" align="center">🔍 Somethings about me </h2>
     <ul>
         <li><b><i>Prefiro escrever esta parte em minha língua mãe, português</i> :heart: </b> </li>
-        <li> Estou atualmente estudando automatização com python 🤖</li>
-        <li>Eu me considero fascinado pela área de Desenvolvimento de Sistemas 💻</li>
+        <li> Estou atualmente interessado em automatização com python 🤖</li>
+        <li>Eu me considero fascinado pela área de Engenharia de Software 💻</li>
         <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é Policial 📖</li>
     </ul>
 </div>
 <hr>
     <div> 
-        <h2 style="padding:10px 0px;" align="center"> Um Trecho de um livro</h2>
+        <h2 style="padding:10px 0px;" align="center"> 🖋 A Little Excerpt</h2>
         <h3>
-        — Quando você olha para trás, você diz, com lágrimas nos olhos: “Oh, os dias felizes. Eu era tão jovem”. (Hercule Poirot)    
+        — When you look back, you say with tears in your eyes, "Oh, the happy days. I was so young". (Poirot's Last Case)    
         </h3>
     </div>
-    
+<br>
+<!--https://github.com/devXprite/visit-counter/tree/main-->
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAllanSmithll&s=38&c=2aa73b&bg=00000000&no=4&ff=linebeam&tb=Visits%3A++&ta=" 
+    align="right"
+    alt="visit count">
