@@ -125,6 +125,6 @@
     </div>
 <br>
 <!--https://github.com/devXprite/visit-counter/tree/main-->
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAllanSmithll&s=38&c=2aa73b&bg=00000000&no=4&ff=linebeam&tb=Visits%3A++&ta=" 
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHanielCostaDaSilva&s=38&c=2aa73b&bg=00000000&no=4&ff=linebeam&tb=Visits%3A++&ta=" 
     align="right"
     alt="visit count">
