@@ -121,8 +121,9 @@
     <div> 
         <h2 style="padding:10px 0px;" align="center"> 🖋 A Little Excerpt</h2>
         <h3>
-        — When you look back, you say with tears in your eyes, "Oh, the happy days. I was so young". (Poirot's Last Case)    
+        "He who knows the enemy and knows himself will fight a hundred battles without danger of defeat." 
         </h3>
+        <h4 align="right">— The Art of War</h4>    
     </div>
 <br>
 <!--https://github.com/devXprite/visit-counter/tree/main-->
