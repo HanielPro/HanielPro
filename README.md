@@ -48,6 +48,8 @@
         src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" />
     <img height="40" width="65"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+    <img height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <br>
     <h3 align="left">Development tools</h3>
     <img height="40" width="50" 
@@ -71,8 +73,6 @@
     <img height="40" width="40" 
         src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
     <h3 align="left">Actually Learning</h3>
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
     <img height="40" width="50"
