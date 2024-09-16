@@ -72,6 +72,8 @@
         src="https://www.freeiconspng.com/uploads/excel-icon-17.png" />
     <img height="40" width="40" 
         src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
+    <img height="40" width="40" 
+        src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" />
     <h3 align="left">Actually Learning</h3>
     <img height="40" width="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
