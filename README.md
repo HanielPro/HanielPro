@@ -10,75 +10,75 @@
 </div>
 <br>
 <div align='center' style="display: inline-block; background-color: aliceblue; width: 100%; height: 100%;">
-    <h2 style="padding:10px 0px;" align="center">💻 Technical Knowledge</h2>
-    <h3 align="left">Programming Languages, MarkDown and MarkUp</h3>
-    <img height="40" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    <img height="40" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img height="40" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img width="40" height="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-        <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-    <br>
-    <h3 align="left">DataBases</h3>
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img height="50" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />  
-    <br>
-    <h3 align="left">FrameWorks</h3>
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-        <img height="40" width="65"
-        src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" />
-    <img height="40" width="65"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <br>
-    <h3 align="left">Development tools</h3>
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-        <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-    <br>
-    <h3 align="left">Others</h3>
-    <img height="40" width="40" 
-        src="https://www.freeiconspng.com/uploads/excel-icon-17.png" />
-    <img height="40" width="40" 
-        src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
-    <img height="40" width="40" 
-        src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" />
-    <h3 align="left">Actually Learning</h3>
-    <img height="40" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
-    <img height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+    <h2 style="padding:10px 0px;" align="center">💻 Technical Knowledge Skills</h2>
+
+<h3 align="left">Backend Development</h3>
+<p align="left">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</p>
+
+<h3 align="left">Frontend Development</h3>
+<p align="left">
+    <img height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
+
+</p>
+
+<h3 align="left">Database</h3>
+<p align="left">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+</p>
+
+
+<h3 align="left">Data Analysis</h3>
+<p align="left">
+    <img height="40" width="65" src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" />
+    <img height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img height="40" width="40" src="https://www.freeiconspng.com/uploads/excel-icon-17.png" />
+</p> 
+
+<h3 align="left">DevOps</h3>
+<p align="left">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+</p>
+
+<h3 align="left">Development Tools</h3>
+<p align="left">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+</p>
+
+<h3 align="left">Others</h3>
+<p align="left">
+    <img height="40" width="40" src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
+    <img height="40" width="40" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" />
+</p>
+
+<h3 align="left">Currently Learning</h3>
+<p align="left">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" />
+    <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" />
+<!--     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> -->
+</p>
+
 </div>
 
 <div>
@@ -129,6 +129,7 @@
     </div>
 <br>
 <!--https://github.com/devXprite/visit-counter/tree/main-->
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHanielCostaDaSilva&s=38&c=2aa73b&bg=00000000&no=4&ff=linebeam&tb=Visits%3A++&ta=" 
+<!-- <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHanielCostaDaSilva&s=38&c=2aa73b&bg=00000000&no=4&ff=linebeam&tb=Visits%3A++&ta=" 
     align="right"
     alt="visit count">
+ -->
