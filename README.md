@@ -1,4 +1,30 @@
 <h1>👋😁 Hello and welcome to my personal profile! I'm Haniel Costa!</h1>
+
+<br>
+<div>
+    <h2 style="padding:10px 0px;" align="center">🎓 Academic Career </h2>
+    <ul>
+        <li>
+            <b>👨‍🎓 Actually, I'm studying for a Technology Degree in Internet Systems at IFPB campus João Pessoa since 2022.</b> 
+        </li>
+        <li>
+             💎I'm a Computer Technician, graduated in 2021.
+        </li>
+    </ul>
+</div>
+<hr>
+<div>
+    <h2 style="padding:10px 0px;" align="center">🔍 Somethings about me </h2>
+    <ul>
+        <li><b><i>Prefiro escrever esta parte em minha língua mãe, português</i> :heart: </b> </li>
+        <li> Estou atualmente interessado em automatização com python 🤖</li>
+        <li>Eu me considero fascinado pela área de Engenharia de Software 💻</li>
+        <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é Policial 📖</li>
+    </ul>
+</div>
+<hr>
+<br>
+
 <div>
     <h2 style="padding:10px 0px;" align="center">That's my progress 💬</h2>
     <div align="center">
@@ -8,7 +34,7 @@
             src="https://github-readme-stats.vercel.app/api?username=HanielCostaDaSilva&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     </div>
 </div>
-<br>
+
 <div align='center' style="display: inline-block; background-color: aliceblue; width: 100%; height: 100%;">
     <h2 style="padding:10px 0px;" align="center">💻 Technical Knowledge Skills</h2>
 
@@ -31,7 +57,6 @@
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-
 
 </p>
 
@@ -98,34 +123,12 @@
     </div>
 </div>
 <hr>
-<div>
-    <h2 style="padding:10px 0px;" align="center">🎓 Academic Career </h2>
-    <ul>
-        <li>
-            <b>👨‍🎓 Actually, I'm studying for a Technology Degree in Internet Systems at IFPB campus João Pessoa since 2022.</b> 
-        </li>
-        <li>
-             💎I'm a Computer Technician, graduated in 2021.
-        </li>
-    </ul>
-</div>
-<hr>
-<div>
-    <h2 style="padding:10px 0px;" align="center">🔍 Somethings about me </h2>
-    <ul>
-        <li><b><i>Prefiro escrever esta parte em minha língua mãe, português</i> :heart: </b> </li>
-        <li> Estou atualmente interessado em automatização com python 🤖</li>
-        <li>Eu me considero fascinado pela área de Engenharia de Software 💻</li>
-        <li> Na maioria das vezes quando não estou programando leio livros! O meu gênero favorito é Policial 📖</li>
-    </ul>
-</div>
-<hr>
     <div> 
         <h2 style="padding:10px 0px;" align="center"> 🖋 A Little Excerpt</h2>
         <h3>
-        "He who knows the enemy and knows himself will fight a hundred battles without danger of defeat." 
+        "Little by little, however, the very extent of his misfortune became a source of comfort to him. Since everything now depended on his own strength, there was no time to waste in employing the means at his disposal to improve his situation." 
         </h3>
-        <h4 align="right">— The Art of War</h4>    
+        <h4 align="right">— Robinson Crusoé</h4>    
     </div>
 <br>
 <!--https://github.com/devXprite/visit-counter/tree/main-->
