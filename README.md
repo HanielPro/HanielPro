@@ -29,9 +29,9 @@
     <h2 style="padding:10px 0px;" align="center">That's my progress 💬</h2>
     <div align="center">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCostaDaSilva&layout=compact&langs_count=7&theme=onedark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielPro&layout=compact&langs_count=7&theme=onedark" />
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=HanielCostaDaSilva&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=HanielPro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     </div>
 </div>
 
