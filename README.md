@@ -82,19 +82,19 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </p>
 
-<h3 align="left">Development Tools</h3>
+<!--<h3 align="left">Development Tools</h3>
 <p align="left">
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-</p>
+</p>-->
 
 <h3 align="left">Others</h3>
 <p align="left">
     <img height="40" width="40" src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
-    <img height="40" width="40" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" />
+    <img height="40" width="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0iIzA1OTY2OSIgZD0iTTkuMjEgMEE5LjA4NCA5LjA4NCAwIDAgMCAuMTA4IDkuMTA0djEwOS43OTJBOS4wODQgOS4wODQgMCAwIDAgOS4yMTEgMTI4aDEwOS41NzhhOS4wODQgOS4wODQgMCAwIDAgOS4xMDQtOS4xMDRWOS4xMDRBOS4wODQgOS4wODQgMCAwIDAgMTE4Ljc4OSAwem05OS44MDggMTcuNDUzYy05LjkyNiAxOS43MDMtMTcuNjAyIDQwLjY3OC0zMC4yNiA1OC45MTRjLTUuNjczIDguMzk3LTEyLjQyIDE2Ljg2OS0yMi4xOTIgMjAuNTljLTYuOTc4IDIuOTQtMTUuNjU1IDEuNzk3LTIxLjIyNi0zLjQ1M2MtMy4zNDUtMi43OS0yLjg3My03LjYzLS45MTYtMTEuMDY3YzUuMTIyLTYuNTMgMTIuNDc3LTEwLjc3NyAxOS4xNC0xNS41NDZjMjAuNDk3LTE0LjAwMiAzOS43MTYtMzAuMTUzIDU1LjQ1NC00OS40MzhtLTkuMDI2IDYuNjY4Qzg2LjY0NCAzOC43OTMgNzEuMjkgNTEuNjQ0IDU0LjkxNCA2Mi44OTFsLS4wMTYuMDExbC0uMDE3LjAxNGMtNy4wNzYgNS4yMjItMTUuMTIgOS43My0yMS4yOTUgMTYuNjA3Yy0xLjg2MSAxLjc3Ny0zLjExNCA1LjU2LTIuODY1IDcuOWMtMy4zMTktNS41NjItNC4yNjYtMTMuOTM5LTEuMzczLTE5Ljk0NmMyLjgxLTYuMzUgOS4yOS05LjYzNSAxNS4zMzgtMTIuMjIzYzIwLjAzOC03LjIxNyAzNS43MTItMTUuNjA4IDU1LjMwNi0zMS4xMzMiLz48L3N2Zz4=" />
 </p>
 
 <h3 align="left">Currently Learning</h3>
