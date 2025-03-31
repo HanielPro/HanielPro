@@ -41,10 +41,12 @@
 <h3 align="left">Backend Development</h3>
 <p align="left">
     <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+    <img height="40" width="50" src="https://www.svgrepo.com/show/353657/django-icon.svg"/>
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
 </p>
 
 <h3 align="left">Frontend Development</h3>
@@ -99,9 +101,8 @@
 
 <h3 align="left">Currently Learning</h3>
 <p align="left">
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" />
-    <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" />
-<!--     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> -->
+<!--     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" />
+    <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" /> -->
 </p>
 
 </div>
