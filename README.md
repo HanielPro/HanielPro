@@ -45,8 +45,8 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
+<!--     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+ -->
 </p>
 
 <h3 align="left">Frontend Development</h3>
@@ -55,7 +55,6 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -84,25 +83,10 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </p>
 
-<!--<h3 align="left">Development Tools</h3>
-<p align="left">
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-</p>-->
-
 <h3 align="left">Others</h3>
 <p align="left">
     <img height="40" width="40" src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" />
     <img height="40" width="40" src="https://svgicons.com/api/ogimage/?id=112084&n=thymeleaf-icon" />
-</p>
-
-<h3 align="left">Currently Learning</h3>
-<p align="left">
-<!--     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" />
-    <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" /> -->
 </p>
 
 </div>
@@ -127,9 +111,9 @@
     <div> 
         <h2 style="padding:10px 0px;" align="center"> 🖋 A Little Excerpt</h2>
         <h3>
-        "Little by little, however, the very extent of his misfortune became a source of comfort to him. Since everything now depended on his own strength, there was no time to waste in employing the means at his disposal to improve his situation." 
+        "Your attitude, not your aptitude, will determine your altitude." 
         </h3>
-        <h4 align="right">— Robinson Crusoé</h4>    
+        <h4 align="right">— Zig Ziglar</h4>    
     </div>
 <br>
 <!--https://github.com/devXprite/visit-counter/tree/main-->
